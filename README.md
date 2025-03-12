@@ -38,7 +38,6 @@ docker-compose up --build
 ### **3️⃣ Access the Application**
 - **Frontend:** http://localhost:3000
 - **Backend API:** http://localhost:5000/tasks
-- **Redis (if needed for debugging):** `docker exec -it <redis-container-id> redis-cli`
 
 ---
 
