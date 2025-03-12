@@ -1,4 +1,4 @@
-# MLOPs-ClassTask-3 (Public)
+# MLOPs-ClassTask-3
 
 ## 📌 Project Overview
 This project is a **full-stack Pomodoro To-Do application** that allows users to **manage tasks** while utilizing the **Pomodoro technique** for improved productivity. The application consists of:
